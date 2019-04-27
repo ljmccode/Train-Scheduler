@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://images.pexels.com/photos/552779/pexels-photo-552779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-size: 100% 100%;
+}
+
+.jumbotron {
+    border: 2px dashed black;
+}
+
+.jumbotron img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.card-header {
+    background-color: darkgreen !important;
+    color: white;
+}
+
+.container {
+    opacity: 0.8;
+}
